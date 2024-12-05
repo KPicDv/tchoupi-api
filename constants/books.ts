@@ -87,4 +87,4 @@ export const BOOKS = {
   86: 'écrit au Père Noël',
 };
 
-export const BOUGHT_BOOKS_NUMBERS = [10, 31 46, 68, 86];
+export const BOUGHT_BOOKS_NUMBERS = [10, 31 46, 68, 80, 86];
